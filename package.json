@@ -1,0 +1,26 @@
+{
+  "name": "team-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bglo17/Team-Organizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bglo17/Team-Organizer/issues"
+  },
+  "homepage": "https://github.com/bglo17/Team-Organizer#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.3",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
